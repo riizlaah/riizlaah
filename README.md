@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi! 
+
+## About Me
+- Self-taught programmer
+- Web Programmer
+- Game Programmer
+
+## Technologies Studied
+  ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat&logoSize=auto)
+  ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat&logoSize=auto)
 
 <!--
 **Riizlaah/Riizlaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
