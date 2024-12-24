@@ -5,7 +5,7 @@
 - Web Programmer
 - Game Programmer
 
-## Technologies Studied
+## Studied Technologies
   ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat&logoSize=auto)
   ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat&logoSize=auto)
 
