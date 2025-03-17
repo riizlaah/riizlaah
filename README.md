@@ -16,6 +16,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
 ## My Projects
-- [Kuarkers (Game)](https://github.com/Riizlaah/kuarkers-g)
-- [MonggoDB](https://github.com/Riizlaah/monggodb)
+- [Kuarkers (Game)](https://github.com/Riizlaah/kuarkers-g) (Simple Game)
+- [MonggoDB](https://github.com/Riizlaah/monggodb) (Simple Database library)
+- [GradGen](https://github.com/Riizlaah/grad-gen) (Gradient generator)
 - [My Web](https://hekerd.eu.org/) (Using Laravel and the web using indonesian language)
