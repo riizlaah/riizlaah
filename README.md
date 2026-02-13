@@ -1,6 +1,6 @@
 # 💫 About Me:
-- I'm currently working on Game Project with Godot (and small web projects)
-- I'm currently learning C# and WPF
+- I'm currently preparing for LKS 2026, and do some small experiment
+- I'm currently learning C# (WinForms & EF6) and Kotlin (Jetpack Compose)
 - Ask me about General/Web/Game Programming, especially PHP, GDScript, and Python
 
 
