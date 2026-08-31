@@ -1,6 +1,7 @@
 # 💫 About Me:
-- I'm currently preparing for LKS National 2026, and do some small experiment
-- I'm currently learning Desktop(WinForms), REST API(ASP.NET) and Android(Jetpack Compose) development
+- I'm a software engineer and game developer
+- I've got #5 in LKS ITSSB National 2026 and #1 in IGW GameJam 2025
+- I'm learning Desktop(WinForms), REST API(ASP.NET) and Android(Jetpack Compose) development recently.
 - Ask me about General/Web/Game Programming, especially PHP, GDScript, and Python
 
 
